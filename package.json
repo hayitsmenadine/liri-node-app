@@ -1,0 +1,22 @@
+// maker sure to always commit your package.json file
+// (but not your node_modules/ folder)
+{
+  "name": "liri-node-app-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyler-reitz/liri-node-app-3.git"
+  },
+  "keywords": [],
+  "author": "Tyler Reitz <tdreitz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyler-reitz/liri-node-app-3/issues"
+  },
+  "homepage": "https://github.com/tyler-reitz/liri-node-app-3#readme"
+}
